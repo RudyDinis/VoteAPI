@@ -1,0 +1,20 @@
+{
+    "serverPrive" : [
+        {
+            "token" : "yourtoken"
+        }
+    ],
+    "minecraftMp" : [
+        {
+            "token" : "yourtoken"
+        }
+    ],
+    "dataBase" : [
+        {
+            "host": "localhost",
+            "user" : "root",
+            "password" : "",
+            "database" : "vote_api"
+        }
+    ]
+}
