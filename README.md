@@ -24,6 +24,7 @@ This project provides an API that verifies if a user has voted for your server o
 
 ## Running the Project
 
+- To install all Node.js packages run `npm install`
 - To start the API, run the following command: `node index.js`
 - By default, the API runs on port 3000. You can change this port in the `index.js` file if needed.
 
@@ -34,7 +35,7 @@ This project provides an API that verifies if a user has voted for your server o
    ```javascript
    const data = {
       site: "serveur-prive", // can be "serveur-prive" or "minecraft-mp"
-      ip: "88.125.162.231", // IP address of the voter
+      ip: "125.88.255.158", // IP address of the voter
       username: "Mrjango90", // Username of the voter
    };
 
